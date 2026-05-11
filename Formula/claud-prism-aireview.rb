@@ -1,10 +1,10 @@
 class ClaudPrismAireview < Formula
   desc "Multi-AI provider toolkit for Claude Code — cross-provider code review via Codex + Gemini"
   homepage "https://github.com/tznthou/claude-prism"
-  url "https://github.com/tznthou/claude-prism/archive/refs/tags/v0.14.4.tar.gz"
-  sha256 "cb911bdf036a6831f6a64f1aaad42321cab96483e746f8613f5166763b58e1c0"
+  url "https://github.com/tznthou/claude-prism/archive/refs/tags/v0.14.5.tar.gz"
+  sha256 "cfd25a43b6f86ac9680baa3ee6a7b59a42f4b7bce3fbd39014166388744b45e9"
   license "MIT"
-  version "0.14.4"
+  version "0.14.5"
 
   depends_on "bash"
 
